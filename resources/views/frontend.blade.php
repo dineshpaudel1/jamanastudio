@@ -1,0 +1,1 @@
+@extends('frontend.includes.body')
